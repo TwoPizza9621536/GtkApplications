@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Samuel Wu
+#
+# SPDX-License-Identifier: CC0-1.0
 cmake_minimum_required(VERSION 3.0.0)
 
 project(GtkApplications)

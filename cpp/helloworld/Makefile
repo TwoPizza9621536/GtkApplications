@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Samuel Wu
+#
+# SPDX-License-Identifier: CC0-1.0
 CXX = g++
 CCFLAGS = -pipe -g -Wall -Wextra -pedantic
 CXXFLAGS = `pkg-config --cflags gtkmm-4.0`

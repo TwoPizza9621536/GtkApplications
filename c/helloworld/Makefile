@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Samuel Wu
+#
+# SPDX-License-Identifier: CC0-1.0
 CXX = gcc
 CCFLAGS = -pipe -g -Wall -Wextra -pedantic
 CXXFLAGS = `pkg-config --cflags gtk4`

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Samuel Wu
+#
+# SPDX-License-Identifier: CC0-1.0
 project(GtkHelloWorld LANGUAGES C)
 
 add_executable(${PROJECT_NAME} src/helloworld.c)
