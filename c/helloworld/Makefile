@@ -27,4 +27,4 @@ $(OBJ):
 	mkdir -p $@
 
 clean:
-	rm -rfv $(OBJ) $(PROGRAM)*.*
+	rm -rfv $(OBJ) $(PROGRAM)*
